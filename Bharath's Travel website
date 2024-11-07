@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="final.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+       <div class="icon">
+        <img src="images/t1.jpeg"  class="icon" width="40px;">
+        <span class="icon-name">Travel</span>
+       </div>
+       <div class="menu_area">
+        <ul>
+          <li>Home</li>
+          <li>Services</li>
+          <li>About Us</li>
+          <li>Gallery</li>
+        </ul>
+       </div>
+    </div>
+    <div class="content">
+      <div class="main-content">
+<h2 class="main-heading">Travel with no limits</h2>
+<p>Travel ios the movement of people between different geographical locations</p>
+      </div>
+      <h1 class="services-heading">Our Services</h1>
+      <div class="services">
+        <div class="card1">
+          <img src="images/t1.jpeg" class="card11">
+          <p>Travel with all freedom</p>
+        </div>
+        <div class="card1">
+          <img src="images/t1.jpeg" class="card22">
+          <p>Travel with all freedom</p>
+        </div>
+        <div class="card1">
+          <img src="images/t1.jpeg" class="card33">
+          <p>Travel with all freedom</p>
+        </div>
+        <div class="card1">
+          <img src="images/t1.jpeg" class="card33">
+          <p>Travel with all freedom</p>
+        </div>
+        <div class="card1">
+          <img src="images/t1.jpeg" class="card33">
+          <p>Travel with all freedom</p>
+        </div>
+      </div>
+      <div class="about_us">
+        <img src="images/t2.jpeg" class="side-image">
+        <div class="side-text">
+          <h1>About US</h1>
+          <p>Travel smarter with the official Travel Notes Online Guide to Travel. 
+            Practical tips, travel itineraries, and tourism hacks to make your journeys unforgettable.Travelling is not just about sightseeing or taking pictures; it's about immersing oneself in new cultures, connecting with people, and constantly learning.</p>
+        </div>
+      </div>
+      <div class="gallery">
+        <h2 class="gallery-text">Our Gallery</h2>
+        <img src="images/t1.jpeg" class="g1">
+        <img src="images/t2.jpeg" class="g2">
+        <img src="images/t1.jpeg" class="g3">
+        <img src="images/t2.jpeg" class="g4">
+        <img src="images/t1.jpeg" class="g5">
+        <img src="images/t2.jpeg" class="g6">
+      </div>
+    </div>
+    <div class="footer">
+      <div class="address">
+        123 east godavari,<br>
+        california,south <br>
+        united states
+      </div>
+      <div class="contact">
+        <p>Travel@gmail.com</p>
+
+        <p>+919133930768</p>
+
+        <p>@2004</p>
+      </div>
+    </div>
+  </div>  
+</body>
+</html>
